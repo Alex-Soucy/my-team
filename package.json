@@ -1,0 +1,25 @@
+{
+  "name": "my-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Soucy/my-team.git"
+  },
+  "author": "Alex-Soucy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Soucy/my-team/issues"
+  },
+  "homepage": "https://github.com/Alex-Soucy/my-team#readme",
+  "dependencies": {
+    "jest": "^27.4.4"
+  }
+}
